@@ -1,17 +1,57 @@
+# User Profile Dashboard
 
-# React Accordion
+User Profile Dashboard is a responsive web app for viewing and managing user information in a clean dashboard UI, built with React, Vite, Tailwind CSS, and Radix UI.
 
-React Accordion is a user-friendly component library for React applications, providing an intuitive way to create accordion interfaces. Easily organize and display content in collapsible sections, enhancing user experience and interaction. Explore customizable features, responsive design, and accessibility options with React Accordion.
+## Live Preview
+
+[View Live App](https://user-profile-dashboard-six.vercel.app/)
 
 ## Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/kamalanathan23/User-Profile-Dashboard/refs/heads/main/src/assets/website.png)
 
+
 ## Tech Stack
 
-**Client:** React, TailwindCSS
+- React 18
+- Vite 6
+- Tailwind CSS 4
+- Radix UI
+- TypeScript tooling
 
+## Getting Started
 
-## Live Preview
+### Prerequisites
 
-https://user-profile-dashboard-six.vercel.app/
+- Node.js 20+
+- npm
+
+### Install
+
+```bash
+npm install
+```
+
+### Run Locally
+
+```bash
+npm run dev
+```
+
+The app runs on `http://localhost:3000`.
+
+### Production Build
+
+```bash
+npm run build
+```
+
+Build artifacts are generated in the `build/` folder.
+
+## Project Scripts
+
+- `npm run dev` - Start development server
+- `npm run build` - Create production build
+
+## Deployment (Vercel)
+
