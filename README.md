@@ -53,5 +53,3 @@ Build artifacts are generated in the `build/` folder.
 - `npm run dev` - Start development server
 - `npm run build` - Create production build
 
-## Deployment (Vercel)
-
